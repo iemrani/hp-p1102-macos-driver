@@ -1,0 +1,5 @@
+*.pkg
+*.dmg
+.DS_Store
+.memsearch/
+.claude/
